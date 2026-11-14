@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @EnzoInCod
-- 👀 I’m interested in aprender cada vez + sobre programação
-- 🌱 I’m currently learning Java e boas praticas de programação
-- 💞️ I’m looking to collaborate on Projetos para me desenvolver 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-EnzoInCod/EnzoInCod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Araras
+🚀 Apaixonado por tecnologia, criação de soluções web (como o projeto self-service "Busca - Aqui") e Banco de Dados.
+🛠️ Tecnologias: JavaScript, HTML5, CSS3, Java, Kotlin, MySQL & Git/GitHub.
+📚 Atualmente focado em aprimorar minhas habilidades em desenvolvimento front-end/back-end e explorar novas ferramentas de IA.
